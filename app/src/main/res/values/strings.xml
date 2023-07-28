@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trabajos-Android</string>
+    <string name="trabajo1_nombre">Trabajos de Altura</string>
+    <string name="trabajo1_descripcion">Este trabajo implica realizar tareas en elevaciones significativas sobre el suelo, como en edificios, torres, puentes o postes. Puede incluir reparaciones, instalaciones, mantenimiento o inspecciones en áreas elevadas. Los trabajadores deben seguir estrictas medidas de seguridad para evitar caídas y garantizar su propia seguridad.</string>
+
+    <string name="trabajo2_nombre">Trabajos Eléctricos</string>
+    <string name="trabajo2_descripcion">Los trabajos eléctricos involucran la instalación, mantenimiento o reparación de sistemas eléctricos en edificios, hogares o instalaciones industriales. Esto puede incluir la conexión de cables, la instalación de interruptores, el mantenimiento de paneles de control y la resolución de problemas eléctricos. Se requiere un conocimiento profundo de las normas y regulaciones eléctricas para evitar accidentes y lesiones.</string>
+
+    <string name="trabajo3_nombre">Trabajos Manejo Defensivo</string>
+    <string name="trabajo3_descripcion">Este trabajo se refiere a la habilidad de conducir de manera segura y previsora en las vías de tránsito. Los conductores que realizan tareas de manejo defensivo están capacitados para anticipar situaciones peligrosas en la carretera y tomar medidas para evitar accidentes. Implica el uso de técnicas de observación, mantener una distancia segura con otros vehículos y respetar las señales de tránsito.</string>
+
+    <string name="trabajo4_nombre">Trabajos Manejo Extintores y Primeros Auxilios</string>
+    <string name="trabajo4_descripcion">Este trabajo implica la capacitación y habilidad para responder rápidamente a emergencias, como incendios o accidentes, y brindar ayuda inmediata. Los trabajadores están entrenados en el uso adecuado de extintores de incendios para controlar y extinguir fuegos en sus etapas iniciales. También están capacitados en técnicas de primeros auxilios para proporcionar atención médica básica a personas lesionadas hasta que llegue ayuda profesional.</string>
+
+</resources>
